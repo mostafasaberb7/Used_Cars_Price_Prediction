@@ -90,27 +90,6 @@ The dataset contains detailed information about used cars listed for sale. Each 
 - Try ensemble models like XGBoost or LightGBM
 - Add price range classification as an optional output
 
----
 
-## 🧰 Tech Stack
-
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib, Seaborn  
-- Jupyter Notebook
-
----
-
-## 👨‍💻 Author
-
-**Mostafa Saber Hussein**  
-AI Engineer & Data Science Specialist  
-📧 Email: mostfasaber37@gmail.com  
-🌐 GitHub: [github.com/MostafaSaberHussein](https://github.com/MostafaSaberHussein)
-
----
-
-## 📂 Project Structure
 
 
